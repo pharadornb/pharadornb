@@ -14,7 +14,9 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 *   ⚡  traveling<a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/pharadornb?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a><a href="https://www.twitter.com/bomorzo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/bomorzo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-                /></a>### Skills 
+                /></a>
+                
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,9 +48,7 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
+### Socials
                 <p align="left">
                           
                       <a href="https://www.facebook.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
