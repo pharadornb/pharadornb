@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pharadorn Boonruam
 ==========================================================================================================================================
 
-Software Developer and cloud engineer
+Software and Cloud Engineer
 -------------------------------------
 
 Welcome, I'm pharadorn boonruam call me bom, this about of code developer
@@ -11,9 +11,7 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 * ✉️  You can contact me at [pharadorn.br@gmail.com](mailto:pharadorn.br@gmail.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting project
-* ⚡  traveling
-
-<a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pharadornb?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+* ⚡  traveling, photographer
 
 ### Skills
 
