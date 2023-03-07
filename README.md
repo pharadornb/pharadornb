@@ -13,10 +13,7 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  traveling
 
-<a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pharadornb?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a><a href="https://www.twitter.com/bomorzo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bomorzo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-/></a>
+<a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/pharadornb?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 ### Skills
 
