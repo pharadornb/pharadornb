@@ -5,7 +5,6 @@ Software and Cloud Engineer
 -------------------------------------
 
 Welcome, I'm pharadorn boonruam call me bom, this about of code developer
-
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [PharadornB](http://student.sut.ac.th/b6134228)
 * ✉️  You can contact me at [pharadorn.br@gmail.com](mailto:pharadorn.br@gmail.com)
@@ -14,7 +13,6 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 * ⚡  traveling, photographer
 
 ### Skills
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -47,12 +45,9 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 </p>
 
 ### Socials
-
 <p align="left"> <a href="https://www.facebook.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pharadorn-boonruam-b4915320b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13563672/bomdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bomorzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pharadornb"><img src="https://github-readme-stats.vercel.app/api?username=pharadornb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="pharadornb's GitHub stats" /></a>
 
@@ -63,5 +58,4 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 <a href="https://github.com/pharadornb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharadornb&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/pharadornb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
