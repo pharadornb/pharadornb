@@ -57,3 +57,8 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/pharadornb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Statistics
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pharadornb/count.svg?"  />
+</div>
