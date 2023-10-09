@@ -52,7 +52,7 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 
 ### Badges
 
-<a href="http://www.github.com/pharadornb"><img src="https://github-readme-stats.vercel.app/api?username=pharadornb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="pharadornb's GitHub stats" /></a>
+[![An image of @pharadornb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pharadornb)](https://holopin.io/@pharadornb)
 
 <a href="http://www.github.com/pharadornb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pharadornb&stroke=84cc16&background=181824&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
