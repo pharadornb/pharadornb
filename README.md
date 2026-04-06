@@ -52,12 +52,5 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 
 <a href="http://www.github.com/pharadornb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pharadornb&stroke=84cc16&background=181824&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="https://github.com/pharadornb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharadornb&langs_count=10&title_color=0891b2&text_color=84cc16&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-<a href="https://www.buymeacoffee.com/pharadornb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Statistics
-<div align="center">
-  ![Profile views](https://counter.kuber.studio/pharadornb/hacker/count.svg)
-</div>
+![Profile views](https://counter.kuber.studio/pharadornb/dark/count.svg)
