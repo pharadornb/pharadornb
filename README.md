@@ -59,5 +59,5 @@ Welcome, I'm pharadorn boonruam call me bom, this about of code developer
 
 ### Statistics
 <div align="center">
-  <img src="https://profile-counter.glitch.me/pharadornb/count.svg?"  />
+  ![Profile views](https://counter.kuber.studio/pharadornb/hacker/count.svg)
 </div>
