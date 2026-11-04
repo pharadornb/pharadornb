@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1D4ED8&center=true&vCenter=true&width=520&lines=Healthcare+systems;ASP.NET+Core+%C2%B7+Go+%C2%B7+React+%C2%B7+PostgreSQL;Docker+%26+CI%2FCD" alt="Healthcare systems · ASP.NET Core · Go · React · PostgreSQL · Docker & CI/CD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Healthcare+systems;ASP.NET+Core+%C2%B7+Go+%C2%B7+React+%C2%B7+PostgreSQL;Docker+%26+CI%2FCD" alt="Healthcare systems · ASP.NET Core · Go · React · PostgreSQL · Docker & CI/CD" />
 </p>
 
 Full Stack Engineer with nearly five years of experience building and supporting systems for medical devices and healthcare operations, from API and database design to containerized deployment and on-site support.
 
 ### 🔧 What I work on
 
-- **Maintenance support system**: designed, architected and built it for the technicians who service medical equipment at medical center customers, reducing reliance on Excel records (Go, React)
-- **Multi-tenant medical-device platform**: operations portal (PWA), desktop app for government reimbursement claims, and third-party device integrations (ASP.NET Core microservices, Ionic Angular, Raspberry Pi)
+- **Maintenance support system** for the technicians who service medical equipment, reducing reliance on Excel records (Go, React)
+- **Multi-tenant healthcare operations platforms** (ASP.NET Core microservices, Ionic Angular)
 - **Personal project**: ERP platform on Odoo with multi-tenant provisioning and customizable modules
 
 ### ⚡ Highlights
@@ -22,6 +22,17 @@ Full Stack Engineer with nearly five years of experience building and supporting
 - Promoted to Technical Support Engineer in Dec 2025; resolve 20+ product cases a month
 - Turned two days of manual cloud provisioning into a portal that does it in a few clicks (Angular, Ansible, Terraform)
 - Restructured an army camp hospital's annual health check-up booking system for 4,000+ users
+
+### 🗺️ Career
+
+```mermaid
+timeline
+  2021 : Java Developer (Co-op)
+  2022 : Software Developer
+  2023 : Information Officer (Military Service)
+  2024 : Full Stack Developer
+  2025 : Technical Support Engineer (Promoted)
+```
 
 ### 🧰 Stack
 
@@ -33,10 +44,13 @@ Full Stack Engineer with nearly five years of experience building and supporting
 **Frontend:** React, Next.js, Angular, Ionic<br>
 **DevOps:** Docker, GitHub Actions, CircleCI, Nginx, Ansible, Terraform
 
+🎓 B.I.S. Information Science (Enterprise Software), Suranaree University of Technology, Second-Class Honors<br>
+🌱 Outside work: learning new frameworks, travelling and photography
+
 ### 📫 Connect
 
 [![Website](https://img.shields.io/badge/pharadornb.github.io-1d4ed8?style=flat&logo=googlechrome&logoColor=white)](https://pharadornb.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pharadornb-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pharadornb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pharadornb-0a66c2?style=flat&labelColor=004182)](https://linkedin.com/in/pharadornb)
 
 <p align="center">
   <picture>
