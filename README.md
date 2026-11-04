@@ -1,56 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pharadorn Boonruam
-==========================================================================================================================================
+<!-- GitHub profile README (repo pharadornb/pharadornb). Derived from ../public.md only. -->
+<!-- Snake section needs the workflow in github-snake.yml → .github/workflows/snake.yml in that repo. -->
 
-Software and Cloud Engineer
--------------------------------------
-
-Welcome, I'm pharadorn boonruam call me bom, this about of code developer
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [PharadornB](http://student.sut.ac.th/b6134228)
-* ✉️  You can contact me at [pharadorn.br@gmail.com](mailto:pharadorn.br@gmail.com)
-* 🧠  I'm learning a new framework
-* 🤝  I'm open to collaborating on interesting project
-* ⚡  traveling, photographer
-
-### Skills
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0891b2&height=170&section=header&text=Full%20Stack%20Engineer&fontColor=ffffff&fontSize=38&fontAlignY=36&desc=Healthcare%20systems&descAlignY=56&descSize=16" alt="Full Stack Engineer · Healthcare systems" />
 </p>
 
-### Badge
-[![An image of @pharadornb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pharadornb)](https://holopin.io/@pharadornb)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1D4ED8&center=true&vCenter=true&width=520&lines=Healthcare+systems;ASP.NET+Core+%C2%B7+Go+%C2%B7+React+%C2%B7+PostgreSQL;Docker+%26+CI%2FCD" alt="Healthcare systems · ASP.NET Core · Go · React · PostgreSQL · Docker & CI/CD" />
+</p>
 
-### Socials
-<p align="left"> <a href="https://www.facebook.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/pharadornb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pharadorn-boonruam-b4915320b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13563672/bomdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bomorzo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+Full Stack Engineer with nearly five years of experience building and supporting systems for medical devices and healthcare operations, from API and database design to containerized deployment and on-site support.
 
-<a href="http://www.github.com/pharadornb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pharadornb&stroke=84cc16&background=181824&ring=0891b2&fire=0891b2&currStreakNum=84cc16&currStreakLabel=0891b2&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+### 🔧 What I work on
 
-### Statistics
-![Profile views](https://counter.kuber.studio/pharadornb/dark/count.svg)
+- **Maintenance support system**: designed, architected and built it for the technicians who service medical equipment at medical center customers, reducing reliance on Excel records (Go, React)
+- **Multi-tenant medical-device platform**: operations portal (PWA), desktop app for government reimbursement claims, and third-party device integrations (ASP.NET Core microservices, Ionic Angular, Raspberry Pi)
+- **Personal project**: ERP platform on Odoo with multi-tenant provisioning and customizable modules
+
+### ⚡ Highlights
+
+- Promoted to Technical Support Engineer in Dec 2025; resolve 20+ product cases a month
+- Turned two days of manual cloud provisioning into a portal that does it in a few clicks (Angular, Ansible, Terraform)
+- Restructured an army camp hospital's annual health check-up booking system for 4,000+ users
+
+### 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,react,nextjs,angular,postgres,docker,githubactions,nginx,ansible,terraform&perline=12" alt="C#, .NET, Go, React, Next.js, Angular, PostgreSQL, Docker, GitHub Actions, Nginx, Ansible, Terraform" />
+</p>
+
+**Backend:** ASP.NET Core, Go, PostgreSQL, SQL Server<br>
+**Frontend:** React, Next.js, Angular, Ionic<br>
+**DevOps:** Docker, GitHub Actions, CircleCI, Nginx, Ansible, Terraform
+
+### 📫 Connect
+
+[![Website](https://img.shields.io/badge/pharadornb.github.io-1d4ed8?style=flat&logo=googlechrome&logoColor=white)](https://pharadornb.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pharadornb-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pharadornb)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pharadornb/pharadornb/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/pharadornb/pharadornb/output/github-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0891b2&height=100&section=footer" alt="" />
+</p>
